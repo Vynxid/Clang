@@ -1,1 +1,1 @@
-3aef599d072bea70fb07a6e47bdfb49099e2199c
+https://gitlab.com/jjpprrrr/prelude-clang/-/archive/master/prelude-clang-master.tar.gz
